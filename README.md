@@ -1,6 +1,6 @@
 ## Deepak Webpage
 ### Hi there, Deepak here
-Developer who switched to Cloud Infrastructure. Have been building tools and automation around  muti-cloud enviroment, to make life easy for devs right from the project setup to the deployment and then alerting and monitoring with the lastest technologies.
+Developer who switched to Cloud Infrastructure. Have been building tools and automation around  muti-cloud enviroment, to make life easy for devs right from the project setup to the deployment and then alerting and monitoring with the latest technologies.
 
 - 🔭 &nbsp;I’m currently working on Automations.
 - 🌱 &nbsp;I’m currently learning  Go and python
